@@ -14,6 +14,5 @@ To write a python program to find the rank of a matrix
 <img width="1243" height="715" alt="image" src="https://github.com/user-attachments/assets/4f9505b4-89cd-40a0-a938-a65ce68a5ad9" />
 
 ## Result:
-hfjgjkj
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
