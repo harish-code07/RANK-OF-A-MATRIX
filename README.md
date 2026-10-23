@@ -14,10 +14,15 @@ To write a python program to find the rank of a matrix
 #Developed by: Harish Bakavadh J
 #RegisterNumber:26007865
 import os
+
 os.environ["OPENBLAS_NUM_THREADS"]="1"
+
 import numpy as np
+
 A=np.array([[1,2,3],[3,6,9]])
+
 B=np.linalg.matrix_rank(A)
+
 print(B)
 ## Output:
 <img width="1243" height="715" alt="image" src="https://github.com/user-attachments/assets/4f9505b4-89cd-40a0-a938-a65ce68a5ad9" />
